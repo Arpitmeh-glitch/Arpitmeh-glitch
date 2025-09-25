@@ -1,16 +1,32 @@
-## Hi there 👋
+ # Hi 👋, I'm Arpit Mehrotra
 
-<!--
-**Arpitmeh-glitch/Arpitmeh-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE Student at UPES | 1st Year
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square)](https://www.linkedin.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋‍♂️ About Me
+
+- 🎓 I'm currently a **1st-year B.Tech student at UPES Dehradun**
+- 💻 I'm learning and exploring **Linux, C programming, HTML, and CSS**
+- 🚀 I'm passionate about **Frontend Development and Cyber Security**
+- 🌱 Always curious to learn more about **Tech & Software Development**
+
+---
+
+## 🛠️ Skills & Tools
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 📫 How to reach me
+
+- GitHub: [Arpitmeh-glitch](https://github.com/Arpitmeh-glitch)
+- Email:  mehrotraa245@gmail.com
+- Linkedin: https://www.linkedin.com/in/arpit-mehrotra-a93483378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+

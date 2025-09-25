@@ -1,10 +1,11 @@
- # Hi 👋, I'm Arpit Mehrotra
+ <h1 align="center">Hi 👋, I'm Arpit Mehrotra</h1>
+<h3 align="center">B.Tech CSE Student at UPES | 1st Year</h3><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/arpit-mehrotra-a93483378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="height: 35px;">
+  </a>
+</p>
 
-B.Tech CSE Student at UPES | 1st Year
-
-[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square)](https://www.linkedin.com)
-
----
 
 ## 🙋‍♂️ About Me
 

@@ -22,6 +22,15 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+### 🔥 GitHub Stats (Optional)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arpitmeh-glitch&show_icons=true&theme=radical" alt="Arpit's GitHub stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitmeh-glitch&layout=compact&theme=radical" alt="Top Langs" width="300"/>
+</p>
+
+---
+
 ## 📫 How to reach me
 
 - GitHub: [Arpitmeh-glitch](https://github.com/Arpitmeh-glitch)

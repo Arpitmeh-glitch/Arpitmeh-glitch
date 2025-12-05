@@ -26,17 +26,15 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+ h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arpitmeh-glitch&show_icons=true&theme=midnight-purple" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitmeh-glitch&layout=compact&theme=midnight-purple" height="165" />
-</p>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Arpitmeh-glitch&show_icons=true&theme=midnight-purple" height="160" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Arpitmeh-glitch&theme=midnight-purple" />
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Arpitmeh-glitch&theme=midnight-purple" height="160" />
 </p>
-
 ---
 
 <h2 align="center">🌐 Connect With Me</h2>

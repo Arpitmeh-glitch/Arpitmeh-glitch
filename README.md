@@ -31,16 +31,16 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arpitmeh-glitch&show_icons=true&theme=midnight-purple" />
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arpitmeh-glitch&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitmeh-glitch&layout=compact&theme=midnight-purple" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpitmeh-glitch&theme=midnight-purple" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpitmeh-glitch&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitmeh-glitch&layout=compact&theme=midnight-purple" alt="Top Languages" />
 </p>
 
 ---

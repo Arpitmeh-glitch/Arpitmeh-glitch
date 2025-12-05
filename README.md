@@ -30,8 +30,6 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Arpitmeh-glitch&show_icons=true&theme=midnight-purple" height="160" />
-
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=Arpitmeh-glitch&theme=midnight-purple" height="160" />
 </p>

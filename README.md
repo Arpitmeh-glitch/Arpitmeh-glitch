@@ -1,39 +1,77 @@
- <!-- 💜 Cyber Purple Profile 💜 -->
+<!-- 💜 CYBERSECURITY PROFILE 💜 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=AA00FF&center=true&vCenter=true&width=750&lines=Hey+%F0%9F%91%8B+I'm+Arpit+Mehrotra;First+Year+CS+Student+@+UPES;Frontend+Developer+in+Progress;Welcome+to+my+Purple+Space!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=AA00FF&center=true&vCenter=true&width=750&lines=Hey+%F0%9F%91%8B+I'm+Arpit+Mehrotra;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Python+%7C+Recon+Tool+Developer;Top+15%25+on+TryHackMe;Breaking+%26+Securing+Systems" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/216654112-0a0b8f0c-3f6c-4d5b-9c61-5f8d1c9b7f4e.gif" width="500"/>
 </p>
 
 ---
 
-### 🧠 About Me  
-- 🏫 **First Year B.Tech CSE Student @ UPES**  
-- 💻 Learning **Frontend Development (HTML, CSS, C)**  
-- 🚀 Curious to learn, build, grow — both as a developer & as a person  
-- 📫 Reach me: **mehrotraa245@gmail.com**  
+## 🧠 About Me  
+
+- 🏫 **B.Tech CSE Student @ UPES (Semester 2)**  
+- 🛡️ Passionate about **Cybersecurity & Ethical Hacking**  
+- 🐍 Building tools using **Python for Recon & Automation**  
+- 🔍 Created a **Multi-Recon Tool**  
+- 🧠 Ranked in **Top 15% on TryHackMe**  
+- 🚀 Learning by *breaking, building & securing systems*  
+
+📫 Reach me: **mehrotraa245@gmail.com**
+
+---
+
+<h2 align="center">⚔️ Tools I Use</h2>
+
+<p align="center">
+  🛠️ Nmap • Metasploit • Burp Suite • Hashcat • John The Ripper • Linux
+</p>
 
 ---
 
 <h2 align="center">🚀 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,html,css" height="70" />
+  <img src="https://skillicons.dev/icons?i=python,linux,git,github,bash" height="70" />
 </p>
 
 ---
 
- <h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">🛠️ Projects</h2>
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <!-- GitHub Streak -->
+  🛡️ <b>Multi-Recon Tool</b> <br>
+  → Automated reconnaissance tool for domain analysis <br>
+  → Includes scanning, enumeration & information gathering <br>
+</p>
+
+---
+
+<h2 align="center">📊 TryHackMe Stats</h2>
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/mehrotraa245.png" alt="TryHackMe Badge" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Arpitmeh-glitch&theme=midnight-purple" height="160" />
 </p>
 
+---
+
+<h2 align="center">📈 Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpitmeh-glitch&theme=react-dark&bg_color=0D1117&color=AA00FF&line=AA00FF&point=FFFFFF" />
+</p>
+
+---
 
 <h2 align="center">🌐 Connect With Me</h2>
 
@@ -51,12 +89,19 @@
 
 ---
 
-<h2 align="center">💜 Fun Zone</h2>
+<h2 align="center">🔥 Current Goals</h2>
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  🚀 Master Python for Security <br>
+  🧠 Advanced Networking <br>
+  🛡️ Web Pentesting <br>
+  ⚔️ Build Advanced Security Tools <br>
 </p>
 
+---
+
+<h2 align="center">💜</h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=AA00FF&height=120&section=footer&text=Thanks+for+Visiting!&fontSize=35&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=AA00FF&height=120&section=footer&text=Hack+The+System+💜&fontSize=35&fontColor=FFFFFF" />
 </p>

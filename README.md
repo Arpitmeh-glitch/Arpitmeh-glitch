@@ -48,10 +48,12 @@
 </p>
 
 ---
- <h2 align="center">📊 TryHackMe Stats</h2>
+<h2 align="center">📊 TryHackMe Profile</h2>
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/mehrotraa245.png" />
+  <a href="https://tryhackme.com/p/mehrotraa245">
+    <img src="https://img.shields.io/badge/TryHackMe-Top%2015%25-AA00FF?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
 </p>
 ---
 

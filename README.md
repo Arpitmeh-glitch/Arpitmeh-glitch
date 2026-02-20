@@ -48,13 +48,11 @@
 </p>
 
 ---
-
-<h2 align="center">📊 TryHackMe Stats</h2>
+ <h2 align="center">📊 TryHackMe Stats</h2>
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/mehrotraa245.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/mehrotraa245.png" />
 </p>
-
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>

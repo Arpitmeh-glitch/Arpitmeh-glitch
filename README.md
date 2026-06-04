@@ -34,7 +34,7 @@
 └─$ cat about.txt
 
   👤  Name    : Arpit Mehrotra
-  🎓  Degree  : B.Tech CSE — UPES (2nd Semester)
+  🎓  Degree  : B.Tech CSE — UPES (2nd Year)
   🔐  Focus   : Cybersecurity + Python Automation
   🏆  Rank    : Top 15% on TryHackMe
   ⚡  Status  : Actively building & contributing (GSSoC 2026)
